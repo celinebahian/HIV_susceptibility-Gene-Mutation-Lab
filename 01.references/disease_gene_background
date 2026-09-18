@@ -1,0 +1,19 @@
+# Disease and Noormal Gene Function
+
+# Backgrund of the Disease
+  Human Immunodeficiency Virus (HIV) is a disease that weakens the immune system by attacking CD4⁺ T cells, which help the body 
+  fight infections. To infect these cells, HIV first attaches to the CD4 receptor and then uses the CCR5 receptor as a co-receptor 
+  to enter the cell. As the virus continues to multiply, the number of CD4⁺ T cells decreases, making the body more vulnerable to 
+    infections and other diseases. 
+A well-known genetic variant of the CCR5 gene is the CCR5 Δ32 mutation, which is caused by the deletion of 32 nucleotides in the coding 
+    sequence. This mutation produces a shortened and nonfunctional CCR5 protein that cannot be properly expressed on the cell surface. 
+    Without a functional CCR5 receptor, most CCR5-tropic HIV-1 strains have difficulty entering CD4⁺ T cells. Because of this, people 
+      who inherit two copies of the Δ32 mutation have a high level of natural resistance to many HIV infections.
+
+# CCR5 Gene and Normal Protein
+    The CCR5 (C-C motif chemokine receptor 5) gene provides instructions for making the CCR5 protein, a chemokine receptor found on the 
+      surface of immune cells such as CD4⁺ T cells, macrophages, and dendritic cells. Its normal function is to help immune cells move 
+        to sites of infection by binding chemokines. CCR5 also serves as a co-receptor that allows many strains of HIV-1 to enter CD4⁺ T 
+        cells.
+Reference transcript: NM_000579.3
+Reference protein: NP_000570.1
