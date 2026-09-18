@@ -1,0 +1,22 @@
+WT vs Documented Mutant GALT Protein Sequence Comparison
+==========================================================
+
+Gene: 
+CCR5 Reference transcript: NM_000579.3 
+Reference protein: NP_000570.1
+
+Documented variant: 
+NM_000579.3:c.554_585del32 
+Protein consequence: p.Ser185fs 
+
+Mutation type: Frameshift deletion
+
+WT protein length: 352 amino acids 
+Mutant protein length: 343 amino acids
+
+WT:     HYTCSSHFPYSQYQFWKNFQTL
+Mutant: HYTCSSHFPYIKDSHLGAGPAA
+
+The WT and mutant proteins are identical up to the mutation site. After the 32-base deletion, 
+the reading frame changes beginning at Ser185, producing a different downstream amino acid sequence and a premature stop codon.
+
